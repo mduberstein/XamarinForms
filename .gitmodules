@@ -1,0 +1,3 @@
+[submodule "Phoneword"]
+	path = Phoneword
+	url = https://github.com/mduberstein/Phoneword
